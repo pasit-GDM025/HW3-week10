@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2T2\HW3-week10\bin\Debug\net6.0\HW3-week10.exe
+D:\Works\GDMY2\CODEY2T2\HW3-week10\bin\Debug\net6.0\HW3-week10.deps.json
+D:\Works\GDMY2\CODEY2T2\HW3-week10\bin\Debug\net6.0\HW3-week10.runtimeconfig.json
+D:\Works\GDMY2\CODEY2T2\HW3-week10\bin\Debug\net6.0\HW3-week10.dll
+D:\Works\GDMY2\CODEY2T2\HW3-week10\bin\Debug\net6.0\HW3-week10.pdb
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.dll
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\refint\HW3-week10.dll
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.pdb
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\HW3-week10.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2T2\HW3-week10\obj\Debug\net6.0\ref\HW3-week10.dll
